@@ -8,15 +8,15 @@
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/C-%23a8b9cc?style=flat-square&logo=C&logoColor=black"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/HTML-%23e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/CSS-%231572b6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/GO-%2300add8?style=flat-square&logo=GO&logoColor=white"/></a><br>
-  <img src="https://img.shields.io/badge/JavaScript-%23f7df1e?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Spring-%236db33f?style=flat-square&logo=SPRING&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Eclipse-%232c2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-%234479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=JAVA&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/C-%23a8b9cc?style=flat-square&logo=C&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML-%23e34f26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS-%231572b6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GO-%2300add8?style=flat-square&logo=GO&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/JavaScript-%23f7df1e?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring-%236db33f?style=flat-square&logo=SPRING&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Eclipse-%232c2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-%234479a1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
 </p>
 
 
