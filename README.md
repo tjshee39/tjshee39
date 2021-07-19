@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/CSS-%231572b6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-%234479a1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=JAVA&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/C-%23a8b9cc?style=flat-square&logo=C&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-%23a8b9cc?style=flat-square&logo=C&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/Eclipse-%232c2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>&nbsp;<br>
   <img src="https://img.shields.io/badge/Git-%23f05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML-%23e34f26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
