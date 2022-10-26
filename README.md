@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Git-%23f05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML-%23e34f26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-%23f7df1e?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/mongodb-%2343a633?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring-%236db33f?style=flat-square&logo=SPRING&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
 </p>
