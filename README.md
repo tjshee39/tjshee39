@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/JavaScript-%23f7df1e?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/mongodb-%2343a633?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring-%236db33f?style=flat-square&logo=SPRING&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
 </p>
 
