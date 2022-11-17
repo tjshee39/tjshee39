@@ -8,22 +8,22 @@
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-%2361dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/GO-%2300add8?style=flat-square&logo=GO&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS-%231572b6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-%234479a1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/python-%233571a3?style=flat-square&logo=python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-%233178c6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JAVA-%23007396?style=flat-square&logo=JAVA&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/C-%2303599c?style=flat-square&logo=C&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Eclipse-%232c2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>&nbsp;<br>
-  <img src="https://img.shields.io/badge/Git-%23f05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML-%23e34f26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-%23f7df1e?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/mongodb-%2343a633?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Spring-%236db33f?style=flat-square&logo=SPRING&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-%2361dafb?style=for-the-badge&logo=React&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GO-%2300add8?style=for-the-badge&logo=GO&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS-%231572b6?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-%234479a1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/python-%233571a3?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-%233178c6?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JAVA-%23007396?style=for-the-badge&logo=JAVA&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/C-%2303599c?style=for-the-badge&logo=C&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Eclipse-%232c2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>&nbsp;<br>
+  <img src="https://img.shields.io/badge/Git-%23f05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML-%23e34f26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/mongodb-%2343a633?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring-%236db33f?style=for-the-badge&logo=SPRING&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Android-%233ddc84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp;
 </p>
 
 <h3 align="center">🙋‍♀️</h3>
