@@ -26,6 +26,10 @@
   <img src="https://img.shields.io/badge/Android-%233ddc84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp;
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjshee39&layout=compact">
+</p>
+
 <h3 align="center">🙋‍♀️</h3>
 <p align="center">
   <a href="https://github.com/tjshee39">
