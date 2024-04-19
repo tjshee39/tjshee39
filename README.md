@@ -36,6 +36,9 @@
 <p align="center">
   <a href="https://github.com/tjshee39">
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white">
+  </a><br>
+  <a href="https://velog.io/@gksh054/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
   </a>
 </p>
 
