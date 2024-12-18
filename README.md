@@ -8,7 +8,7 @@
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-%2361dafb?style=for-the-badge&logo=React&logoColor=white"/>&nbsp;
+  <!-- <img src="https://img.shields.io/badge/React-%2361dafb?style=for-the-badge&logo=React&logoColor=white"/>&nbsp; -->
   <!-- <img src="https://img.shields.io/badge/GO-%2300add8?style=for-the-badge&logo=GO&logoColor=white"/>&nbsp; -->
   <!-- <img src="https://img.shields.io/badge/CSS-%231572b6?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp; -->
   <img src="https://img.shields.io/badge/MySQL-%234479a1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
